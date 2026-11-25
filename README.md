@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  🎓 B.Sc. in IT Management — University of Tehran
+  🎓 B.Sc. in Management — University of Tehran
 </p>
 
 <p align="center">
