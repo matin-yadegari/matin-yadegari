@@ -52,6 +52,12 @@
 
 ---
 
+### 🛠️ Technical Stack
+
 <p align="center">
-  <i>⚡ Turning ideas into solutions, and data into insights.</i>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,java,postgresql,oracle,spark,hadoop,docker,linux,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge" />
 </p>
