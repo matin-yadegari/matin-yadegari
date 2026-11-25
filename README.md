@@ -17,7 +17,6 @@
 ### 👨‍💻 About Me
 
 - 💼 Junior professional in Data Engineering, Software Engineering, and Data Analysis.
-- 🎓 Bachelor's graduate in IT Management from the University of Tehran.
 - 🧩 Focused on problem-solving and developing practical solutions.
 - 🚀 Continuously learning and growing through hands-on projects.
 
