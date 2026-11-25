@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Matin Yadegari</h1>
 
 <h3 align="center">
-  Junior Data Engineer | Junior Software Engineer | Junior Data Analyst
+  Junior Data Engineer | Junior Data Analyst
 </h3>
 
 <p align="center">
