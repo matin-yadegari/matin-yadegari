@@ -18,24 +18,22 @@
 
 - 💼 Junior professional in Data Engineering, Software Engineering, and Data Analysis.
 - 🎓 Bachelor's graduate in IT Management from the University of Tehran.
-- 🧩 Focused on problem-solving, technology, and developing practical solutions.
+- 🧩 Focused on problem-solving and developing practical solutions.
 - 🚀 Continuously learning and growing through hands-on projects.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,docker,linux,git,github" />
-</p>
-
-### 📊 Technical Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-1565C0?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%2FELT-455A64?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 🌐 Connect With Me
