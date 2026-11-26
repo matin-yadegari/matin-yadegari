@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Junior professional in Data Engineering, Software Engineering, and Data Analysis.
+- 💼 Junior professional in Data Engineering and Data Analysis.
 - 🧩 Focused on problem-solving and developing practical solutions.
 - 🚀 Continuously learning and growing through hands-on projects.
 
